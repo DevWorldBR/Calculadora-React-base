@@ -1,3 +1,7 @@
+# Calculadora feita por [xandyalexandrec](https://github.com/xandyalexandrec)
+Estarei usando como base para criar a minha própia.
+|---|
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
